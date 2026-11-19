@@ -8,9 +8,9 @@
 | Content | `social` | Stub | calendar | report |
 | Content | `blog-seo-geo` | Stub | calendar, positioning | email, social, report |
 | Content | `email` | Stub | calendar, positioning | report |
-| Creative | `ad-creative` | Stub | positioning, calendar | landing page, report |
+| Creative | `ad-creative` | ✅ | positioning, calendar | landing page, report |
 | Creative | `video-short-form` | Stub | calendar, positioning | social, ads, report |
-| Creative | `landing-page` | Stub | positioning, ads | report |
+| Creative | `landing-page` | ✅ | positioning, ads | report |
 | Measure | `performance-report` | Stub | campaign data | insights |
 | Measure | `insights-summary` | Stub | report | next brief, `/context` |
 | Measure | `next-cycle-brief` | Stub | insights | calendar (next loop) |
